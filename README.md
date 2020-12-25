@@ -1,16 +1,14 @@
 ### Hi there 👋
+#### I am Abhishek Manjanwal
 
-<!--
-**thestarkster7/thestarkster7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 I’m a CS sophomore at Manipal University Jaipur.
+- 🌱 I’m currently learning React and React Native.
+- 📫 How to reach me:
+        LinkedIn: [abhishek-manjanwal](https://www.linkedin.com/in/abhishek-manjanwal/) 
+        Instagram: [@abhishekmanjanwal](https://www.instagram.com/abhishekmanjanwal/) 
+        Twitter: [@thestarkster7](https://twitter.com/thestarkster7) 
+        Quora: [Abhishek-Manjanwal](https://www.quora.com/profile/Abhishek-Manjanwal) 
+- 😄 Pronouns: he/him
 
-Here are some ideas to get you started:
+![thestarkster7's github report](https://github-readme-stats.vercel.app/api?username=thestarkster7&&show_icons=true&title_color=ffffff&icon_color=c4a8ff&text_color=449183&bg_color=000000)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
