@@ -11,3 +11,8 @@
 - 😄 Pronouns: he/him
 
 ![thestarkster7's github report](https://github-readme-stats.vercel.app/api?username=thestarkster7&&show_icons=true&title_color=ffffff&icon_color=c4a8ff&text_color=449183&bg_color=000000)
+
+(https://github-readme-stats.vercel.app/api/top-langs/?username=thestarkster7)
+
+Viewer Count :
+ ![Visitor Count](https://profile-counter.glitch.me/{thestarkster7}/count.svg)
