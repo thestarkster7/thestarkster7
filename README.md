@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 #### I am Abhishek Manjanwal
 
 - 🎓 I’m a CS sophomore at Manipal University Jaipur.
