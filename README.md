@@ -2,7 +2,7 @@
 #### I am Abhishek Manjanwal
 
 - 🎓 I’m a CS sophomore at Manipal University Jaipur.
-- 🌱 I’m currently learningb React Native.
+- 🌱 I’m currently learning React Native.
 - 📫 How to reach me:
  1. LinkedIn: [abhishek-manjanwal](https://www.linkedin.com/in/abhishek-manjanwal/)
  2. Instagram: [@abhishekmanjanwal](https://www.instagram.com/abhishekmanjanwal/)
